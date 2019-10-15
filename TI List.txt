@@ -1,0 +1,24 @@
+List of Training Images:
+
+* "ti_binary.mat"
+This image is a 2-D binary which represents a reservoir consisting of shale and sand with sinusoidal channels, is used as the TI.
+
+* "ti_longrange.mat"
+This training image is a simple binary image having long-range features.
+
+* "ti_categorical.mat"
+The training image represents the ground penetrating radar (GPR) data of a fluvioglacial aquifer. This dataset is from Herten site that is located in Rhine River in Germany, near Basel in Switzerland.
+
+* "ti_continuous.mat"
+This image is a stonewall which represents a number of stones with narrow channels in between.
+
+* "ti_3D.mat"
+This training image is a binary image which shows 3D folds.
+
+It should be mentioned that all of this TIs are borrowed from the websites:
+http://www.trainingimages.org/
+https://github.com/GAIA-UNIL/trainingimages
+
+
+* "Is.mat"
+As an example for a simulation grid containing hard data this file contains 100 hard data for the binary case.
